@@ -15,7 +15,7 @@ Use this guide to deploy and run the Agent (BETA) solution package in this repos
 
 The Agent (BETA) solution package is provided in the Agent folder:
 
-- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zipCopilotChattoM365CopilotPitchMaker_1_0_0_1.zip)
+- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip)
 
 ## Required Input Data
 
@@ -36,7 +36,7 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 
 1. Export your Copilot opportunity dataset from Partner Center ASPX:
    - **Step 1:** In the Copilot Opportunities tab, select **Change Column** before downloading the file.
-     ![Select Change Column in ASPX](././Media/./Media/ASPX_1.png)
+     ![Select Change Column in ASPX](./Media/ASPX_1.png)
    - **Step 2:** In the column selection dialog, choose **All Columns** to ensure all relevant data is included.
      ![Select All Columns in ASPX](./Media/ASPX_2.png)
    - **Step 3:** Download the file after confirming all columns are selected.
