@@ -15,7 +15,7 @@ Use this guide to deploy and run the Agent (BETA) solution package in this repos
 
 The Agent (BETA) solution package is provided in the Agent folder:
 
-- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip)
+- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zipCopilotChattoM365CopilotPitchMaker_1_0_0_1.zip)
 
 ## Required Input Data
 
@@ -36,13 +36,13 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 
 1. Export your Copilot opportunity dataset from Partner Center ASPX:
    - **Step 1:** In the Copilot Opportunities tab, select **Change Column** before downloading the file.
-     ![Select Change Column in ASPX](media/ASPX_1.png)
+     ![Select Change Column in ASPX](././Media/./Media/ASPX_1.png)
    - **Step 2:** In the column selection dialog, choose **All Columns** to ensure all relevant data is included.
-     ![Select All Columns in ASPX](media/ASPX_2.png)
+     ![Select All Columns in ASPX](./Media/ASPX_2.png)
    - **Step 3:** Download the file after confirming all columns are selected.
-     ![Download the file in ASPX](media/ASPX_3.png)
+     ![Download the file in ASPX](./Media/ASPX_3.png)
    - **Step 4:** After downloading, ensure the file's sensitivity label is set so the Agent (BETA) can access it (remove or lower sensitivity if needed).
-     ![Set sensitivity label for downloaded file](media/ASPX_4.png)
+     ![Set sensitivity label for downloaded file](./Media/ASPX_4.png)
 
 2. Confirm required columns are present for usage, whitespace, and opportunity signals.
 3. Keep this exported file ready for upload in the Agent (BETA) prompt after deployment.
@@ -50,18 +50,18 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 ### 2. Import the Agent (BETA) Solution
 
 1. Open [Copilot Studio](https://copilotstudio.microsoft.com/) in your target environment. If your team uses the preview experience, you can use [Copilot Studio (Preview)](https://copilotstudio.preview.microsoft.com/) instead.
-   ![Open Copilot Studio](media/CP_1.png)
+   ![Open Copilot Studio](./Media/CP_1.png)
 
 2. Import the solution package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip).
-   ![Import the solution package](media/CP_2.png)
+   ![Import the solution package](./Media/CP_2.png)
    Reference: [Import the solution with your agent](https://learn.microsoft.com/microsoft-copilot-studio/authoring-solutions-import-export?tabs=webApp#import-the-solution-with-your-agent)
 
 3. Verify the Agent (BETA) and dependencies are successfully imported.
-   ![Verify Agent and dependencies](media/CP_3.png)
+   ![Verify Agent and dependencies](./Media/CP_3.png)
    Reference: [Export and import agents using solutions](https://learn.microsoft.com/microsoft-copilot-studio/authoring-solutions-import-export?tabs=webApp)
 
 4. After importing, publish the Agent (BETA) and make it available in M365 Copilot and Teams channel. This allows users to interact with the agent directly from M365 Copilot or Teams, without needing access to Copilot Studio.
-   ![Publish Agent to M365 Copilot and Teams](media/CP_4.png)
+   ![Publish Agent to M365 Copilot and Teams](./Media/CP_4.png)
    Reference: [Publish and deploy your agent](https://learn.microsoft.com/microsoft-copilot-studio/publication-fundamentals-publish-channels) and [Connect and configure an agent for Teams and Microsoft 365](https://learn.microsoft.com/microsoft-copilot-studio/publication-add-bot-to-microsoft-teams)
 
 ### 3. Run the Pitch Generation Flow
@@ -75,11 +75,11 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 
 Example output view:
 
-![Example output from the Agent (BETA) interaction](media/Output.png)
+![Example output from the Agent (BETA) interaction](./Media/Output.png)
 
 To further enhance or enrich the generated content, export the agent interaction to Word.
 
-![Export agent interaction to Word](media/ASPX_5.png)
+![Export agent interaction to Word](./Media/ASPX_5.png)
 
 ## Post-Run Checklist
 
