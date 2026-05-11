@@ -20,7 +20,7 @@ This is not only an efficiency tool; it is an advisory and outcomes accelerator.
 
 Watch a live demonstration of how the Agent (BETA) transforms partner center data into compelling customer business cases:
 
-[**▶️ Watch the Pitch Maker Demo**](media/PitchMaker.mp4)
+[**▶️ Watch the Pitch Maker Demo**](./Media/PitchMaker.mp4)
 
 ***
 
@@ -122,7 +122,7 @@ The final recommendation clearly explains why an upgrade is required now, what r
 
 The image below shows an example of the generated pitch output from the Agent (BETA).
 
-![Example output from the Copilot Chat to M365 Copilot Pitch Maker Agent (BETA)](media/Output.png)
+![Example output from the Copilot Chat to M365 Copilot Pitch Maker Agent (BETA)](./Media/Output.png)
 
 ***
 
