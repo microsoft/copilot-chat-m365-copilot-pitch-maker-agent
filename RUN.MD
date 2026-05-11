@@ -90,7 +90,7 @@ To further enhance or enrich the generated content, export the agent interaction
 
 ### Import Fails
 
-- Ensure you are importing the package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip).
+- Ensure you are importing the package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip).
 - Confirm your environment has the required solution import permissions.
 
 ### Recommendations Feel Generic
@@ -100,5 +100,5 @@ To further enhance or enrich the generated content, export the agent interaction
 
 ## Additional References
 
-- [Overview guide](README.md)
+- [Overview guide](./README.md)
 - [Partner Center - Copilot growth opportunities data](https://learn.microsoft.com/partner-center/insights/growth-opportunities-data/copilot)
