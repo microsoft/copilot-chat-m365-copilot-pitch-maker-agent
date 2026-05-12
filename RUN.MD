@@ -98,6 +98,10 @@ To further enhance or enrich the generated content, export the agent interaction
 - Check that customer selection is correct and data is fresh.
 - Include additional account context in prompts when refining output.
 
+## ⚠️ Disclaimer
+
+AI-generated outputs should be reviewed, validated, and tailored where necessary before external sharing.
+
 ## Additional References
 
 - [Overview guide](./README.md)

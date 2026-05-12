@@ -153,11 +153,3 @@ This Agent (BETA) helps partners identify opportunity, structure high-quality co
 **From AI experimentation to governed, organization-wide transformation.**
 
 For setup, deployment, and execution details, see the [run guide](RUN.MD).
-
-***
-
-## ⚠️ Disclaimer
-
-AI-generated outputs should be reviewed, validated, and tailored where necessary before external sharing.
-
-***
