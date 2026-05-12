@@ -20,6 +20,12 @@ This is not only an efficiency tool; it is an advisory and outcomes accelerator.
 
 Watch a live demonstration of how the Agent (BETA) transforms partner center data into compelling customer business cases:
 
+<video controls width="100%" preload="metadata">
+	<source src="https://raw.githubusercontent.com/microsoft/copilot-chat-m365-copilot-pitch-maker-agent/main/Media/PitchMaker.mp4" type="video/mp4" />
+	Your browser does not support the video tag. You can watch the demo here:
+	<a href="https://raw.githubusercontent.com/microsoft/copilot-chat-m365-copilot-pitch-maker-agent/main/Media/PitchMaker.mp4">Watch the Pitch Maker Demo</a>
+</video>
+
 [**▶️ Watch the Pitch Maker Demo**](./Media/PitchMaker.mp4)
 
 ***
