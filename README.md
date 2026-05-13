@@ -20,11 +20,11 @@ This is not only an efficiency tool; it is an advisory and outcomes accelerator.
 
 Watch a live demonstration of how the Agent (BETA) transforms partner center data into compelling customer business cases:
 
-<video controls width="100%" src="./Media/PitchMaker.mp4">
-	Your browser does not support the video tag.
-</video>
+[![Watch the Pitch Maker Demo](https://img.youtube.com/vi/ycmNMKA8hvM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ycmNMKA8hvM)
 
 [**▶️ Watch on YouTube**](https://www.youtube.com/watch?v=ycmNMKA8hvM)
+
+[Download the local MP4 fallback](./Media/PitchMaker.mp4)
 
 ***
 
