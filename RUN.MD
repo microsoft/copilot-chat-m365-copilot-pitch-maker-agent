@@ -15,7 +15,9 @@ Use this guide to deploy and run the Agent (BETA) solution package in this repos
 
 The Agent (BETA) solution package is provided in the Agent folder:
 
-- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip)
+> Note: The Agent folder contains the latest available package version. Check the exact file name in that folder before importing.
+
+- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip)
 
 ## Required Input Data
 
@@ -52,7 +54,7 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 1. Open [Copilot Studio](https://copilotstudio.microsoft.com/) in your target environment. If your team uses the preview experience, you can use [Copilot Studio (Preview)](https://copilotstudio.preview.microsoft.com/) instead.
    ![Open Copilot Studio](./Media/CP_1.png)
 
-2. Import the solution package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip).
+2. Import the solution package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip).
    ![Import the solution package](./Media/CP_2.png)
    Reference: [Import the solution with your agent](https://learn.microsoft.com/microsoft-copilot-studio/authoring-solutions-import-export?tabs=webApp#import-the-solution-with-your-agent)
 
@@ -90,7 +92,7 @@ To further enhance or enrich the generated content, export the agent interaction
 
 ### Import Fails
 
-- Ensure you are importing the package from [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_1.zip).
+- Ensure you are importing the package from the latest package file in the Agent folder (for example: [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip)).
 - Confirm your environment has the required solution import permissions.
 
 ### Recommendations Feel Generic
