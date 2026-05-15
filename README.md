@@ -88,15 +88,15 @@ The Agent (BETA) identifies opportunity-led growth drivers, governance and compl
 
 A key differentiator of this Agent (BETA) is that it shifts the conversation from generic AI capability to how work is actually performed across Microsoft 365 workloads.
 
-### 🔹 Microsoft Teams: Collaboration Intelligence Layer
+### 🔹 AI for Collaboration (Teams)
 
 In Teams, the story focuses on embedding AI into meetings and teamwork so conversations become structured knowledge and clear action. The practical result is better alignment, more consistent execution, and stronger accountability.
 
-### 🔹 Microsoft Outlook: Communication Intelligence Layer
+### 🔹 AI for Communication (Outlook)
 
 In Outlook, the value is framed around turning communication into actionable insight, prioritising what matters, and improving visibility of decisions. This supports faster cycles and reduces communication overload.
 
-### 🔹 Microsoft Excel: Decision Intelligence Layer
+### 🔹 AI for Decision-making (Excel)
 
 In Excel, the narrative highlights modelling, forecasting, and analysis in structured data environments, which improves decision confidence and planning rigour.
 
@@ -111,6 +111,14 @@ When combined, these capabilities create a connected AI operating model rather t
 The Agent (BETA) explicitly connects capability to outcomes. It positions Microsoft 365 Copilot as a way to reduce risk through policy-aligned usage and auditability, improve efficiency through faster execution and clearer collaboration, increase decision quality through data-driven analysis, and strengthen organisational alignment through shared context and leadership visibility.
 
 This keeps the customer conversation focused on business transformation and measurable outcomes instead of feature lists.
+
+#### ✅ How a Microsoft Partner Accelerates the Transition
+
+The Agent (BETA) includes a practical partner-led transition path to help customers move from unstructured AI usage to governed business value:
+
+- Before: Assess readiness, governance posture, and priority workflows.
+- During: Deploy adoption motions across Teams, Outlook, and Excel with compliance controls in place.
+- After: Measure outcomes, refine usage patterns, and scale into broader AI operating models.
 
 ***
 
