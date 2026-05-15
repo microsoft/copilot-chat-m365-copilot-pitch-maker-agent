@@ -24,8 +24,6 @@ Watch a live demonstration of how the Agent (BETA) transforms partner center dat
 
 [**▶️ Watch on YouTube**](https://www.youtube.com/watch?v=ycmNMKA8hvM)
 
-[Download the local MP4 fallback](./Media/PitchMaker.mp4)
-
 ***
 
 ## 🎯 The Opportunity for Partners
