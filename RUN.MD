@@ -17,7 +17,7 @@ The Agent (BETA) solution package is provided in the Agent folder:
 
 > Note: The Agent folder contains the latest available package version. Check the exact file name in that folder before importing.
 
-- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip)
+- [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent)
 
 ## Required Input Data
 
@@ -92,7 +92,7 @@ To further enhance or enrich the generated content, export the agent interaction
 
 ### Import Fails
 
-- Ensure you are importing the package from the latest package file in the Agent folder (for example: [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip)).
+- Ensure you are importing the package from the latest package file in the Agent folder (for example: [Agent/CopilotChattoM365CopilotPitchMaker_1_0_0_X.zip](./Agent/)).
 - Confirm your environment has the required solution import permissions.
 
 ### Recommendations Feel Generic
