@@ -51,6 +51,8 @@ Reference: [Copilot growth opportunities data in Partner Center](https://learn.m
 
 ### 2. Import the Agent (BETA) Solution
 
+![Import the Agent (BETA) Solution](./Media/PitchMakerImportGIF.gif)
+
 1. Open [Copilot Studio](https://copilotstudio.microsoft.com/) in your target environment. If your team uses the preview experience, you can use [Copilot Studio (Preview)](https://copilotstudio.preview.microsoft.com/) instead.
    ![Open Copilot Studio](./Media/CP_1.png)
 
